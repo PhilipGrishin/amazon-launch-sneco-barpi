@@ -6,9 +6,19 @@ Amazon Launch — SnEco & TM Barpi
 
 ## Public Repository Rule
 
-This repository is public. Do not add confidential costs, supplier data, private documents, personal data, credentials, proprietary formulas, negotiated terms, or non-public commercial strategy.
+This repository is intentionally public at the current project stage. Do not add confidential costs, supplier data, private documents, personal data, credentials, proprietary formulas, negotiated terms, or non-public commercial strategy.
 
 Use public-safe placeholders when sensitive data is required for planning.
+
+The project owner accepts the visibility risks for now so ChatGPT can directly read and review project files, reduce manual copy-paste, and support faster strategic review.
+
+## Repository Operating Model
+
+This repository is the primary project workspace for all information necessary for the Amazon Launch project.
+
+Codex remains the GitHub write operator because the current ChatGPT project chat can read public repository files but cannot commit changes directly.
+
+ChatGPT remains the lead strategic reviewer. Codex maintains files, commits, structure, and repository hygiene.
 
 ## Brand Scope
 

@@ -1,4 +1,4 @@
-# Category & Compliance Risk Framework
+# Category & Compliance Risk Framework — Europe Scope
 
 ## Public Repository Rule
 
@@ -7,6 +7,21 @@ This repository is public. Do not include confidential costs, supplier data, pri
 Use preliminary language only. Do not make final legal or compliance claims. Do not state that a requirement is confirmed unless verified later with current Amazon Seller Central and marketplace-specific policy.
 
 Use the correct brand spelling: `TM Barpi`.
+
+## Current Marketplace Scope
+
+- Amazon Spain / amazon.es
+- Amazon Italy / amazon.it
+- Amazon France / amazon.fr
+- Amazon Germany / amazon.de
+
+## Out-of-Scope Marketplaces
+
+- UK
+- US
+- Canada
+- UAE/KSA
+- All other marketplaces until the project owner explicitly reopens them.
 
 ## Risk Status Values
 
@@ -23,28 +38,66 @@ Use the correct brand spelling: `TM Barpi`.
 - Delay launch
 - Reject until resolved
 
-## Marketplace Candidates
+## Combined Europe Risk Tracker
 
-- Amazon Germany / EU
-- Amazon UK
-- Amazon US
-
-## Combined Risk Tracker
-
-| Brand | Product type | Marketplace candidate | Likely Amazon category | Risk area | Potential risk | Risk status | Decision impact | Evidence needed | Owner | Notes |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| SnEco | Dried cheese snack | Amazon Germany-EU | Grocery or snack-related category | Food category approval | Amazon may require category approval, food documentation, or listing restrictions before sale. | Needs research | Research deeper | Current Seller Central category guidance and marketplace-specific policy. | ChatGPT / Codex | Preliminary only. |
-| SnEco | Dried cheese snack | Amazon Germany-EU | Grocery or snack-related category | Dairy and allergen labeling | Dairy ingredients may trigger allergen, language, and labeling requirements. | Needs research | Research deeper | Ingredient summary, allergen information, label review, and marketplace rules. | ChatGPT / Codex | Preliminary only. |
-| SnEco | Dried cheese snack | Amazon UK | Grocery or snack-related category | UK food labeling and import readiness | UK-specific food labeling, importer, and documentation expectations may apply. | Needs research | Research deeper | Current UK marketplace policy, label requirements, and import assumptions. | ChatGPT / Codex | Preliminary only. |
-| SnEco | Dried cheese snack | Amazon US | Grocery or snack-related category | FDA/import/food facility questions | US food import, facility, labeling, or registration questions may affect readiness. | Needs research | Research deeper | Current US marketplace policy, FDA-related guidance, and import assumptions. | ChatGPT / Codex | Preliminary only. |
-| TM Barpi | Pet treats | Amazon Germany-EU | Pet Supplies or pet treats category | Pet food-feed compliance | Pet treats may require feed or pet food compliance review before launch. | Needs research | Research deeper | Current Seller Central policy, EU/Germany pet food guidance, and product documents. | ChatGPT / Codex | Preliminary only. |
-| TM Barpi | Pet treats | Amazon Germany-EU | Pet Supplies or pet treats category | Animal type and feeding guidance | Missing animal type, intended use, or feeding guidance may delay category and listing readiness. | Needs research | Research deeper | Product specification, intended animal type, feeding guidance, and label review. | ChatGPT / Codex | Preliminary only. |
-| TM Barpi | Pet treats | Amazon UK | Pet Supplies or pet treats category | UK pet food/feed and import readiness | UK pet food/feed rules, importer expectations, and documentation may affect launch. | Needs research | Research deeper | Current UK marketplace policy, pet food/feed guidance, and import assumptions. | ChatGPT / Codex | Preliminary only. |
-| TM Barpi | Pet treats | Amazon US | Pet Supplies or pet treats category | FDA/CVM/AAFCO/state-level pet food questions | US pet treat launch may require review of federal, state, and category-specific expectations. | Needs research | Research deeper | Current Amazon US policy, FDA/CVM guidance, AAFCO-related references, and state-level considerations. | ChatGPT / Codex | Preliminary only. |
+| Brand | Product type | Marketplace | Domain | Likely Amazon category | Risk area | Potential risk | Risk status | Decision impact | Evidence needed | Owner | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SnEco | Dried cheese snack | Spain | amazon.es | Grocery or snack-related category | Food category approval | Amazon may require category approval, food documentation, or listing restrictions before sale. | Needs research | Research deeper | Current Seller Central category guidance for amazon.es and product data. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Spain | amazon.es | Grocery or snack-related category | Dairy and allergen labeling | Dairy ingredients may require marketplace-specific allergen and label review. | Needs research | Research deeper | Ingredients summary, allergen information, label artwork, and Spain/EU requirements. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Spain | amazon.es | Grocery or snack-related category | Nutrition declaration | Nutrition information may be required or need formatting review before listing. | Needs research | Research deeper | Nutrition declaration and current marketplace guidance. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Spain | amazon.es | Grocery or snack-related category | Shelf life and storage | Shelf life, best before format, and storage conditions may affect FBA suitability. | Needs research | Research deeper | Shelf life evidence, storage conditions, and fulfillment assumption. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Spain | amazon.es | Grocery or snack-related category | FBA packaging suitability | Packaging may need review for Amazon handling, food safety, and storage. | Needs research | Research deeper | Packaging dimensions, weights, materials, and FBA prep guidance. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Spain | amazon.es | Grocery or snack-related category | Claims evidence | Unsupported claims may block listing approval or require removal. | Needs research | Research deeper | Claims evidence file and listing draft review. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Italy | amazon.it | Grocery or snack-related category | Food category approval | Amazon may require category approval, food documentation, or listing restrictions before sale. | Needs research | Research deeper | Current Seller Central category guidance for amazon.it and product data. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Italy | amazon.it | Grocery or snack-related category | Dairy and allergen labeling | Dairy ingredients may require marketplace-specific allergen and label review. | Needs research | Research deeper | Ingredients summary, allergen information, label artwork, and Italy/EU requirements. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Italy | amazon.it | Grocery or snack-related category | Nutrition declaration | Nutrition information may be required or need formatting review before listing. | Needs research | Research deeper | Nutrition declaration and current marketplace guidance. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Italy | amazon.it | Grocery or snack-related category | Shelf life and storage | Shelf life, best before format, and storage conditions may affect FBA suitability. | Needs research | Research deeper | Shelf life evidence, storage conditions, and fulfillment assumption. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Italy | amazon.it | Grocery or snack-related category | FBA packaging suitability | Packaging may need review for Amazon handling, food safety, and storage. | Needs research | Research deeper | Packaging dimensions, weights, materials, and FBA prep guidance. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Italy | amazon.it | Grocery or snack-related category | Claims evidence | Unsupported claims may block listing approval or require removal. | Needs research | Research deeper | Claims evidence file and listing draft review. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | France | amazon.fr | Grocery or snack-related category | Food category approval | Amazon may require category approval, food documentation, or listing restrictions before sale. | Needs research | Research deeper | Current Seller Central category guidance for amazon.fr and product data. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | France | amazon.fr | Grocery or snack-related category | Dairy and allergen labeling | Dairy ingredients may require marketplace-specific allergen and label review. | Needs research | Research deeper | Ingredients summary, allergen information, label artwork, and France/EU requirements. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | France | amazon.fr | Grocery or snack-related category | Nutrition declaration | Nutrition information may be required or need formatting review before listing. | Needs research | Research deeper | Nutrition declaration and current marketplace guidance. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | France | amazon.fr | Grocery or snack-related category | Shelf life and storage | Shelf life, best before format, and storage conditions may affect FBA suitability. | Needs research | Research deeper | Shelf life evidence, storage conditions, and fulfillment assumption. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | France | amazon.fr | Grocery or snack-related category | FBA packaging suitability | Packaging may need review for Amazon handling, food safety, and storage. | Needs research | Research deeper | Packaging dimensions, weights, materials, and FBA prep guidance. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | France | amazon.fr | Grocery or snack-related category | Claims evidence | Unsupported claims may block listing approval or require removal. | Needs research | Research deeper | Claims evidence file and listing draft review. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Germany | amazon.de | Grocery or snack-related category | Food category approval | Amazon may require category approval, food documentation, or listing restrictions before sale. | Needs research | Research deeper | Current Seller Central category guidance for amazon.de and product data. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Germany | amazon.de | Grocery or snack-related category | Dairy and allergen labeling | Dairy ingredients may require marketplace-specific allergen and label review. | Needs research | Research deeper | Ingredients summary, allergen information, label artwork, and Germany/EU requirements. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Germany | amazon.de | Grocery or snack-related category | Nutrition declaration | Nutrition information may be required or need formatting review before listing. | Needs research | Research deeper | Nutrition declaration and current marketplace guidance. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Germany | amazon.de | Grocery or snack-related category | Shelf life and storage | Shelf life, best before format, and storage conditions may affect FBA suitability. | Needs research | Research deeper | Shelf life evidence, storage conditions, and fulfillment assumption. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Germany | amazon.de | Grocery or snack-related category | FBA packaging suitability | Packaging may need review for Amazon handling, food safety, and storage. | Needs research | Research deeper | Packaging dimensions, weights, materials, and FBA prep guidance. | ChatGPT / Codex | Preliminary only. |
+| SnEco | Dried cheese snack | Germany | amazon.de | Grocery or snack-related category | Claims evidence | Unsupported claims may block listing approval or require removal. | Needs research | Research deeper | Claims evidence file and listing draft review. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Spain | amazon.es | Pet Supplies or pet treats category | Pet treats category approval | Amazon may require category approval, product documentation, or listing restrictions before sale. | Needs research | Research deeper | Current Seller Central category guidance for amazon.es and product data. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Spain | amazon.es | Pet Supplies or pet treats category | Pet food/feed compliance | Pet treats may require pet food/feed compliance review for the target marketplace. | Needs research | Research deeper | Ingredients summary, product documents, and Spain/EU guidance. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Spain | amazon.es | Pet Supplies or pet treats category | Intended animal type and feeding guidance | Missing animal type or feeding guidance may delay category and listing readiness. | Needs research | Research deeper | Product specification, intended animal type, feeding guidance, and label review. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Spain | amazon.es | Pet Supplies or pet treats category | Analytical constituents if applicable | Analytical information may be required or useful for pet treat review. | Needs research | Research deeper | Analytical constituents / guaranteed analysis if applicable. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Spain | amazon.es | Pet Supplies or pet treats category | Shelf life and storage | Shelf life, best before format, and storage conditions may affect FBA suitability. | Needs research | Research deeper | Shelf life evidence, storage conditions, and fulfillment assumption. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Spain | amazon.es | Pet Supplies or pet treats category | FBA packaging suitability | Packaging may need review for Amazon handling, product safety, and storage. | Needs research | Research deeper | Packaging dimensions, weights, materials, and FBA prep guidance. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Spain | amazon.es | Pet Supplies or pet treats category | Claims evidence | Unsupported claims may block listing approval or require removal. | Needs research | Research deeper | Claims evidence file and listing draft review. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Italy | amazon.it | Pet Supplies or pet treats category | Pet treats category approval | Amazon may require category approval, product documentation, or listing restrictions before sale. | Needs research | Research deeper | Current Seller Central category guidance for amazon.it and product data. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Italy | amazon.it | Pet Supplies or pet treats category | Pet food/feed compliance | Pet treats may require pet food/feed compliance review for the target marketplace. | Needs research | Research deeper | Ingredients summary, product documents, and Italy/EU guidance. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Italy | amazon.it | Pet Supplies or pet treats category | Intended animal type and feeding guidance | Missing animal type or feeding guidance may delay category and listing readiness. | Needs research | Research deeper | Product specification, intended animal type, feeding guidance, and label review. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Italy | amazon.it | Pet Supplies or pet treats category | Analytical constituents if applicable | Analytical information may be required or useful for pet treat review. | Needs research | Research deeper | Analytical constituents / guaranteed analysis if applicable. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Italy | amazon.it | Pet Supplies or pet treats category | Shelf life and storage | Shelf life, best before format, and storage conditions may affect FBA suitability. | Needs research | Research deeper | Shelf life evidence, storage conditions, and fulfillment assumption. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Italy | amazon.it | Pet Supplies or pet treats category | FBA packaging suitability | Packaging may need review for Amazon handling, product safety, and storage. | Needs research | Research deeper | Packaging dimensions, weights, materials, and FBA prep guidance. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Italy | amazon.it | Pet Supplies or pet treats category | Claims evidence | Unsupported claims may block listing approval or require removal. | Needs research | Research deeper | Claims evidence file and listing draft review. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | France | amazon.fr | Pet Supplies or pet treats category | Pet treats category approval | Amazon may require category approval, product documentation, or listing restrictions before sale. | Needs research | Research deeper | Current Seller Central category guidance for amazon.fr and product data. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | France | amazon.fr | Pet Supplies or pet treats category | Pet food/feed compliance | Pet treats may require pet food/feed compliance review for the target marketplace. | Needs research | Research deeper | Ingredients summary, product documents, and France/EU guidance. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | France | amazon.fr | Pet Supplies or pet treats category | Intended animal type and feeding guidance | Missing animal type or feeding guidance may delay category and listing readiness. | Needs research | Research deeper | Product specification, intended animal type, feeding guidance, and label review. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | France | amazon.fr | Pet Supplies or pet treats category | Analytical constituents if applicable | Analytical information may be required or useful for pet treat review. | Needs research | Research deeper | Analytical constituents / guaranteed analysis if applicable. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | France | amazon.fr | Pet Supplies or pet treats category | Shelf life and storage | Shelf life, best before format, and storage conditions may affect FBA suitability. | Needs research | Research deeper | Shelf life evidence, storage conditions, and fulfillment assumption. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | France | amazon.fr | Pet Supplies or pet treats category | FBA packaging suitability | Packaging may need review for Amazon handling, product safety, and storage. | Needs research | Research deeper | Packaging dimensions, weights, materials, and FBA prep guidance. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | France | amazon.fr | Pet Supplies or pet treats category | Claims evidence | Unsupported claims may block listing approval or require removal. | Needs research | Research deeper | Claims evidence file and listing draft review. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Germany | amazon.de | Pet Supplies or pet treats category | Pet treats category approval | Amazon may require category approval, product documentation, or listing restrictions before sale. | Needs research | Research deeper | Current Seller Central category guidance for amazon.de and product data. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Germany | amazon.de | Pet Supplies or pet treats category | Pet food/feed compliance | Pet treats may require pet food/feed compliance review for the target marketplace. | Needs research | Research deeper | Ingredients summary, product documents, and Germany/EU guidance. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Germany | amazon.de | Pet Supplies or pet treats category | Intended animal type and feeding guidance | Missing animal type or feeding guidance may delay category and listing readiness. | Needs research | Research deeper | Product specification, intended animal type, feeding guidance, and label review. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Germany | amazon.de | Pet Supplies or pet treats category | Analytical constituents if applicable | Analytical information may be required or useful for pet treat review. | Needs research | Research deeper | Analytical constituents / guaranteed analysis if applicable. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Germany | amazon.de | Pet Supplies or pet treats category | Shelf life and storage | Shelf life, best before format, and storage conditions may affect FBA suitability. | Needs research | Research deeper | Shelf life evidence, storage conditions, and fulfillment assumption. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Germany | amazon.de | Pet Supplies or pet treats category | FBA packaging suitability | Packaging may need review for Amazon handling, product safety, and storage. | Needs research | Research deeper | Packaging dimensions, weights, materials, and FBA prep guidance. | ChatGPT / Codex | Preliminary only. |
+| TM Barpi | Pet treats | Germany | amazon.de | Pet Supplies or pet treats category | Claims evidence | Unsupported claims may block listing approval or require removal. | Needs research | Research deeper | Claims evidence file and listing draft review. | ChatGPT / Codex | Preliminary only. |
 
 ## Critical Blocker Rules
 
-- If a product cannot be legally sold in the target marketplace, status becomes `Critical blocker` and decision impact becomes `Reject until resolved`.
+- If a product cannot be legally sold in the target Europe marketplace, status becomes `Critical blocker` and decision impact becomes `Reject until resolved`.
 - If required documents are unavailable or cannot be verified, decision impact should be `Delay launch` or `Research deeper`.
 - If Amazon Seller Central blocks category approval, listing creation, or fulfillment eligibility, launch preparation must pause until resolved.
 - If claims cannot be supported with evidence, those claims must be removed or status remains `Research deeper`.
@@ -52,4 +105,4 @@ Use the correct brand spelling: `TM Barpi`.
 
 ## Current Status
 
-Needs research. No launch priority can be selected until category and compliance risks are checked for the target marketplace.
+Needs research. No launch priority can be selected until category and compliance risks are checked for amazon.es, amazon.it, amazon.fr, and amazon.de.

@@ -28,6 +28,17 @@ Use public-safe placeholders when sensitive data is required for planning.
 
 Use `TM Barpi` exactly. Do not use incorrect spellings.
 
+## Marketplace Scope
+
+Current marketplace scope is Amazon Europe only:
+
+- Amazon Spain / amazon.es
+- Amazon Italy / amazon.it
+- Amazon France / amazon.fr
+- Amazon Germany / amazon.de
+
+Out of scope: UK, US, Canada, UAE/KSA, and other marketplaces are out of scope until the project owner explicitly reopens them.
+
 ## Project Objective
 
 Build a public-safe Amazon launch strategy workspace that helps decide which product should launch first, what data is still missing, what compliance and economic risks must be resolved, and what launch assets are required before execution.

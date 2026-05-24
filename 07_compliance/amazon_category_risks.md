@@ -38,6 +38,56 @@ Use the correct brand spelling: `TM Barpi`.
 - Delay launch
 - Reject until resolved
 
+## SnEco First Europe Category Findings
+
+Active SKU:
+
+- SnEco Cheddar 28g EN
+- SnEco Gouda 28g EN
+
+Target marketplaces:
+
+- amazon.es
+- amazon.it
+- amazon.fr
+- amazon.de
+
+Preliminary Amazon category assumption: Grocery / Food Cupboard / Snacks / Savoury Snacks / Cheese Snacks.
+
+Position SnEco as an ambient packaged savoury snack / crunchy cheese snack, not refrigerated cheese.
+
+## SnEco Required Amazon Data Points
+
+| Data point | Preliminary status | Notes |
+| --- | --- | --- |
+| Contains: Milk | Research deeper | Milk must be treated as a critical allergen disclosure because EU Regulation 1169/2011 lists milk and products thereof, including lactose, as an allergen category. |
+| Nutrition per 100 g | Research deeper | Current nutrition declaration contains energy, fat, saturates, carbohydrate, sugars, protein, and salt. |
+| Storage / shelf life | Research deeper | Shelf life is 18 months; storage condition is 0-30°C per supporting documentation. FBA and Seller Central checks still required. |
+
+## SnEco FBA Readiness
+
+Preliminary status: FBA candidate, not approved yet.
+
+Needs checks:
+
+- Final pouch dimensions
+- Packed unit weight
+- Case/showbox configuration
+- Expiration-date handling requirements
+- Barcode/label placement
+- Minimum remaining shelf life at inbound
+- Storage conditions
+- Packaging durability
+
+## SnEco Marketplace Status
+
+| Marketplace | Domain | Preliminary status | Notes |
+| --- | --- | --- | --- |
+| Spain | amazon.es | Research deeper | No reject blocker found yet, but Seller Central category/attribute verification is still required. |
+| Italy | amazon.it | Research deeper | No reject blocker found yet, but Seller Central category/attribute verification is still required. |
+| France | amazon.fr | Research deeper | No reject blocker found yet, but Seller Central category/attribute verification is still required. |
+| Germany | amazon.de | Research deeper | No reject blocker found yet, but Seller Central category/attribute verification is still required. |
+
 ## Combined Europe Risk Tracker
 
 | Brand | Product type | Marketplace | Domain | Likely Amazon category | Risk area | Potential risk | Risk status | Decision impact | Evidence needed | Owner | Notes |

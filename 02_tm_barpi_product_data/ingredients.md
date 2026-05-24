@@ -8,25 +8,33 @@ Use the correct brand spelling: `TM Barpi`.
 
 ## Current Active Focus
 
-TM Barpi brand and product intake is active. Exact final ingredients, analytical constituents, feeding guidelines, and packaging language must be confirmed for each selected SKU.
+TM Barpi brand and product intake is active for five approved dog treat 20g SKU.
+
+Exact ingredient wording remains TBD until final packaging/specification is provided.
+
+## Active Ingredient Intake
+
+| SKU ID | Animal type | Pack size | Ingredient statement | Data status | Notes |
+| --- | --- | --- | --- | --- | --- |
+| TM Barpi Cheese sticks 20g | Dogs | 20g | TBD until final packaging/specification is provided | Approved for intake, needs product data | Cheese sticks may require separate compliance attention because they are cheese-based pet treats. |
+| TM Barpi Chicken hearts 20g | Dogs | 20g | TBD until final packaging/specification is provided | Approved for intake, needs product data | Confirm exact final ingredient statement. |
+| TM Barpi Zefir 20g | Dogs | 20g | TBD until final packaging/specification is provided | Approved for intake, needs product data | Confirm exact final ingredient statement. |
+| TM Barpi Beze 20g | Dogs | 20g | TBD until final packaging/specification is provided | Approved for intake, needs product data | Confirm exact final ingredient statement. |
+| TM Barpi Liver 20g | Dogs | 20g | TBD until final packaging/specification is provided | Approved for intake, needs product data | Liver may require careful claims review because liver products can trigger nutrient/health-style claim risks if described too aggressively. |
 
 ## Ingredient Positioning
 
-- Natural single-ingredient meat treats for dogs and cats.
+- Natural single-ingredient meat treats for dogs.
 - One ingredient.
 - Nothing unnecessary.
 - Removed water, kept taste.
 - Natural aroma without artificial flavoring.
 
-## Preliminary Shortlist Ingredient Intake
+## Out Of Current Scope
 
-| Candidate | Animal type | Product group | Preliminary ingredient direction | Data status | Notes |
-| --- | --- | --- | --- | --- | --- |
-| Chicken hearts 20g | Dog / TBD | Mini 20g treats | Chicken hearts, exact final ingredient wording TBD | Needs data | Preliminary shortlist candidate only. |
-| Beef lung / "Zefir" 15g | Dog / TBD | Mini 20g treats | Beef lung, exact final ingredient wording TBD | Needs data | Preliminary shortlist candidate only. |
-| Beef tripe / cracker 15g | Dog / TBD | Mini 20g treats | Beef tripe, exact final ingredient wording TBD | Needs data | Preliminary shortlist candidate only. |
-| Cat chicken hearts 20g | Cat | Cat line | Chicken hearts, exact final ingredient wording TBD | Needs data | Preliminary shortlist candidate only. |
-| Discovery / mixed mini-pack | Dog / cat / TBD | Discovery sets | Mixed mini-pack composition TBD | Needs data | Preliminary shortlist candidate only. |
+- Cat SKU
+- Appetizers/toppers
+- 100g formats
 
 ## Technology And Storage Claims To Verify
 
@@ -49,6 +57,8 @@ TM Barpi brand and product intake is active. Exact final ingredients, analytical
 - Up to 95% nutrient preservation
 - Up to 12 months without added preservatives
 - Storage: 0-30°C, no refrigeration
+- Any nutrient, functional, health, vitamin, or medical-style wording for Liver 20g
+- Any dairy or cheese-based pet treat positioning for Cheese sticks 20g
 
 ## Current Status
 

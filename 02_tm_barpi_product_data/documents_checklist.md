@@ -14,31 +14,46 @@ Actual requirements depend on Amazon marketplace, category, local regulation, fu
 
 ## Current Active Focus
 
-TM Barpi brand and product intake is active. SnEco is paused until production price, packaging, and unit economics inputs are ready.
+TM Barpi brand and product intake is active. SnEco remains paused until production price, packaging, and unit economics inputs are ready.
+
+## Active SKU Scope
+
+Approved active TM Barpi Amazon intake SKU:
+
+- TM Barpi Cheese sticks 20g — dogs
+- TM Barpi Chicken hearts 20g — dogs
+- TM Barpi Zefir 20g — dogs
+- TM Barpi Beze 20g — dogs
+- TM Barpi Liver 20g — dogs
+
+No cat SKU, no appetizers/toppers, and no 100g formats are active in the current Amazon intake phase.
+
+The shortlist is approved for Amazon intake, not approved for launch yet.
 
 ## Preliminary Required / Useful Documents
 
 | Document | Purpose | Priority | Status | Notes |
 | --- | --- | --- | --- | --- |
-| Product specification | Confirms product identity, format, animal type, and key attributes. | Critical | Needs verification | Required for each selected SKU. |
+| Product specification | Confirms product identity, format, animal type, and key attributes. | Critical | Needs verification | Required for each of the five active dog treat 20g SKU. |
 | Full ingredients list | Supports category, label, animal feed, and claims review. | Critical | Needs verification | Exact final ingredient wording needed for each SKU. |
 | Analytical constituents / guaranteed analysis if applicable | Supports pet food or pet treat label and category review. | High | Needs verification | Needed before Amazon listing decisions. |
-| Intended animal type | Confirms dog-only, cat-only, or both. | Critical | Needs verification | Required for category and listing logic. |
+| Intended animal type | Confirms dog-only positioning. | Critical | Needs verification | All five active SKU are dog treats. |
 | Feeding guidelines | Supports safe use and label review. | High | Needs verification | Required for pet treat compliance review. |
-| Shelf life / best before evidence | Supports FBA suitability and storage review. | High | Needs verification | Brand intake says up to 12 months without added preservatives; needs SKU-level evidence. |
-| Storage conditions | Confirms storage and fulfillment constraints. | High | Needs verification | Brand intake says 0-30°C, no refrigeration; needs document support. |
+| Shelf life / best before evidence | Supports FBA suitability and storage review. | High | Needs verification | Needs SKU-level evidence. |
+| Storage conditions | Confirms storage and fulfillment constraints. | High | Needs verification | Needs document support. |
 | Label artwork | Supports marketplace, language, and claims review. | High | Needs verification | Need to separate packaging claims from website-only claims. |
-| Packaging dimensions and weights | Supports FBA, logistics, and unit economics assumptions. | High | Needs verification | Needed for each selected Amazon selling unit. |
+| Packaging dimensions and weights | Supports FBA, logistics, and unit economics assumptions. | High | Needs verification | Needed for each selected 20g SKU. |
 | Country of production | Supports import, label, and listing requirements. | High | Needs verification | Needed for each SKU. |
 | Manufacturer / responsible operator data | Supports label, compliance, and Seller Central requests. | High | Needs verification | Needed before marketplace setup. |
-| Pet food / feed compliance document if applicable | Supports pet treat category and regulatory review. | Critical | Needs verification | Amazon Europe category path may require review. |
+| Barcode for each SKU | Supports Amazon setup and item identification. | High | Needs verification | Required for each active SKU. |
+| Pet food / feed compliance document if applicable | Supports dog treat category and regulatory review. | Critical | Needs verification | Cheese sticks may require separate compliance attention because they are cheese-based pet treats. |
 | Lab tests | Supports quality, safety, and "lab-tested" wording if used. | High | Needs verification | Use lab-tested / quality-controlled only if evidence is available. |
 | Certificate of conformity | Supports compliance and Seller Central requests if available. | High | Needs verification | Confirm availability. |
 | Technical conditions | Supports manufacturing and product specification review. | Medium | Needs verification | Confirm availability. |
 | Registered facility document | Supports facility and compliance review. | Medium | Needs verification | Confirm availability. |
 | Trademark certificate | Supports brand registry and brand ownership review. | Medium | Needs verification | Confirm availability. |
 | Patent | Supports technology or IP claims if used. | Low | Needs verification | Do not use patent-style claims unless reviewed. |
-| Claims evidence file | Supports technology, storage, shelf life, nutrient, moisture, lab-tested, and quality claims. | Critical | Needs verification | Website claims must not be automatically used in Amazon listings. |
+| Claims evidence file | Supports technology, storage, shelf life, nutrient, moisture, lab-tested, and quality claims. | Critical | Needs verification | Website claims must not be automatically used in Amazon listings. Liver claims need careful review to avoid health, vitamin, functional, or medical-style wording. |
 
 ## Status Values
 
@@ -49,11 +64,12 @@ TM Barpi brand and product intake is active. SnEco is paused until production pr
 
 ## Marketplace-Specific Questions
 
-- Which five TM Barpi SKU should be active for Amazon intake?
-- Which products are dog-only, cat-only, or suitable for both?
-- Which Amazon Europe marketplace is the first operational anchor?
-- Which support documents are available for Amazon Europe?
-- Which claims are printed on packaging and which are only used on the Ukrainian website?
+- Confirm exact product data for the five active dog treat 20g SKU.
+- Confirm whether Amazon Europe dog treat category path requires approval in each marketplace.
+- Confirm packaging languages and required Seller Central fields.
+- Confirm whether these SKU will be sold as single packs or multipacks on Amazon.
+- Confirm which support documents are available for Amazon Europe.
+- Confirm which claims are printed on packaging and which are only used on the Ukrainian website.
 
 ## Current Status
 

@@ -35,6 +35,8 @@ ChatGPT remains the lead strategic reviewer. Codex maintains files, commits, str
 - Product type: pet treats
 - Project status: current active working focus.
 - Project role: brand, product, audience, compliance, and Amazon Europe intake.
+- Active intake scope: five dog treat 20g SKU selected from offline sales performance in Ukraine.
+- Out of current active scope: cat SKU, appetizers/toppers, and 100g formats.
 
 ## Brand Spelling Rule
 

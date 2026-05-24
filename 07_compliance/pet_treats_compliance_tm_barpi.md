@@ -13,6 +13,20 @@ Use the correct brand spelling: `TM Barpi`.
 - Brand: TM Barpi
 - Product type: pet treats
 
+## Active Scope
+
+Only dog treats, 20g packs, and the five SKU listed below are active:
+
+- TM Barpi Cheese sticks 20g — dogs
+- TM Barpi Chicken hearts 20g — dogs
+- TM Barpi Zefir 20g — dogs
+- TM Barpi Beze 20g — dogs
+- TM Barpi Liver 20g — dogs
+
+Cat treats, toppers/appetizers, and 100g formats are out of active scope.
+
+The shortlist is approved for Amazon intake, not approved for launch yet.
+
 ## Current Europe Marketplace Scope
 
 - Amazon Spain / amazon.es
@@ -47,16 +61,17 @@ Use the correct brand spelling: `TM Barpi`.
 
 | Area | Preliminary question | Risk status | Decision impact | Evidence needed | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Pet treats category approval | Which Amazon pet supplies or pet treats category applies on each Europe marketplace? | Needs research | Research deeper | Current Seller Central category guidance and product details. | Preliminary only. |
-| Pet food/feed compliance | Are pet food, feed, or treat-specific expectations understood for each Europe marketplace? | Needs research | Research deeper | Current marketplace policy, product documents, and Europe guidance. | Preliminary only. |
-| Intended animal type | Is the intended animal type clear and consistent across product data, packaging, and listing drafts? | Needs research | Research deeper | Product specification, animal type, and label artwork. | Preliminary only. |
-| Feeding guidelines | Are feeding guidelines available and suitable for the intended animal type? | Needs research | Research deeper | Feeding guidelines and label review. | Preliminary only. |
-| Ingredients and analytical constituents | Are ingredients and analytical constituents / guaranteed analysis available if applicable? | Needs research | Research deeper | Ingredient summary, analytical constituents, and marketplace policy. | Preliminary only. |
-| Shelf life and storage | Is shelf life sufficient for Amazon fulfillment and customer experience? | Needs research | Research deeper | Shelf life evidence, best before rules, and storage conditions. | Preliminary only. |
-| Country of origin | Is the country of origin statement available and suitable for the target marketplace? | Needs research | Research deeper | Country of origin statement and label review. | Preliminary only. |
+| Dog treats category classification | Which Amazon dog treats category applies on each Europe marketplace? | Needs research | Research deeper | Current Seller Central category guidance and product details for the five active dog treat 20g SKU. | Cat treats, toppers/appetizers, and 100g formats are out of active scope. |
+| Pet food/feed compliance | Are pet food, feed, or treat-specific expectations understood for each Europe marketplace? | Needs research | Research deeper | Current marketplace policy, product documents, and Europe guidance. | Cheese sticks may need separate compliance attention due to dairy ingredient. |
+| Intended animal type | Is the intended animal type clear and consistent across product data, packaging, and listing drafts? | Needs research | Research deeper | Product specification, animal type, and label artwork. | Intended animal type = dogs for all five active SKU. |
+| Feeding guidelines | Are feeding guidelines available and suitable for dogs? | Needs research | Research deeper | Dog feeding guidelines and label review. | Required for all active SKU. |
+| Ingredients and analytical constituents | Are ingredients and analytical constituents / guaranteed analysis available if applicable? | Needs research | Research deeper | Ingredient summary, analytical constituents, and marketplace policy. | Exact final ingredient statements remain TBD. |
+| Shelf life and storage | Is shelf life sufficient for Amazon fulfillment and customer experience? | Needs research | Research deeper | Shelf life evidence, best before rules, and storage conditions. | Confirm SKU-level shelf life and storage. |
+| Country of origin / production | Is the country of origin / production available and suitable for the target marketplace? | Needs research | Research deeper | Country of origin / production statement and label review. | Required for Seller Central and compliance review. |
+| Manufacturer / responsible operator | Is manufacturer / responsible operator data available for Amazon Europe? | Needs research | Research deeper | Manufacturer, responsible operator, and label data. | Required before listing setup. |
 | Import/export readiness | Are Europe cross-border pet treat movement and documentation assumptions understood? | Needs research | Research deeper | Import/export assumptions and current marketplace guidance. | Preliminary only. |
 | FBA suitability | Is the product suitable for FBA based on shelf life, storage, packaging, and restrictions? | Needs research | Research deeper | FBA policy review, packaging data, and fulfillment assumption. | Preliminary only. |
-| Claims review | Are all health, nutrition, ingredient, quality, origin, or performance claims supported? | Needs research | Research deeper | Claims evidence file and listing draft review. | Preliminary only. |
+| Claims review | Are all health, nutrition, ingredient, quality, origin, or performance claims supported? | Needs research | Research deeper | Claims evidence file and listing draft review. | Liver and meat-based treats require careful claims review to avoid health, vitamin, functional, or medical-style claims. |
 | Marketplace language requirements | Which packaging and listing languages are required for each Europe marketplace? | Needs research | Research deeper | Target marketplace, label artwork, and language requirements. | Preliminary only. |
 | Seller Central document requests | Which documents might Amazon request during category approval or listing setup? | Needs research | Research deeper | Current Seller Central requests and required document checklist. | Preliminary only. |
 
@@ -79,4 +94,4 @@ Use the correct brand spelling: `TM Barpi`.
 
 ## Current Status
 
-Needs research. No launch priority can be selected until category and compliance risks are checked for amazon.es, amazon.it, amazon.fr, and amazon.de.
+Needs research. The five active TM Barpi dog treat 20g SKU are approved for Amazon intake, not approved for launch. No launch priority can be selected until category and compliance risks are checked for amazon.es, amazon.it, amazon.fr, and amazon.de.

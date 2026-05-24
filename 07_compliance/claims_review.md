@@ -10,6 +10,14 @@ TM Barpi brand and product intake is the current active focus.
 
 SnEco claims work is paused until production price, packaging, and unit economics inputs are ready.
 
+Current active TM Barpi claims review applies only to:
+
+- Cheese sticks 20g for dogs
+- Chicken hearts 20g for dogs
+- Zefir 20g for dogs
+- Beze 20g for dogs
+- Liver 20g for dogs
+
 Target marketplaces:
 
 - amazon.es
@@ -65,6 +73,8 @@ For distance selling, required food information should be available before purch
 
 Do not automatically use website claims in Amazon listing.
 
+Website claims must not be used automatically in Amazon listings. Claims related to dental health, immunity, digestion, joints, allergy/hypoallergenic, vitamins, functional benefits, or medical-style outcomes are not approved for listing use.
+
 ## TM Barpi High-Risk Claims Needing Review
 
 | Claim area | Amazon listing use status | Risk | Notes |
@@ -78,6 +88,8 @@ Do not automatically use website claims in Amazon listing.
 | Human-grade implication | Not approved for listing yet | High | Avoid unless evidence and compliant wording are confirmed. |
 | Space technology wording | Not approved for listing yet | High | Avoid unless evidence, accuracy, and Amazon wording are reviewed. |
 | Health or medical-style claims | Not approved for listing yet | High | Avoid in title, bullets, A+, and backend content. |
+| Liver nutrient / vitamin / functional benefit wording | Not approved for listing yet | High | Liver products require careful claims review to avoid health, vitamin, functional, or medical-style claims. |
+| Cheese-based pet treat positioning | Not approved for listing yet | Medium | Cheese sticks may require separate compliance attention because they are cheese-based pet treats. |
 
 ## TM Barpi Preferred Amazon-Safe Language
 

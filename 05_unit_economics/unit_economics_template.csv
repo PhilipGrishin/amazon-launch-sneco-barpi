@@ -1,2 +1,8 @@
-brand,sku,marketplace,currency,selling_price_placeholder,amazon_fee_placeholder,fulfillment_cost_placeholder,landed_cost_placeholder,ad_cost_placeholder,margin_placeholder,notes
-placeholder,placeholder,placeholder,placeholder,placeholder,placeholder,placeholder,placeholder,placeholder,placeholder,Use placeholders only
+brand,selling_unit_id,composition,total_pouch_count,total_net_weight_g,role,cogs_gouda_pouch_eur,cogs_cheddar_pouch_eur,bundle_packaging_eur,assembly_cost_eur,inbound_logistics_eur,fba_fee_eur,referral_fee_percent,target_selling_price_eur,vat_percent,ad_cost_percent,contribution_before_ads_eur,break_even_acos_percent,profit_after_ads_eur,status,notes
+SnEco,SnEco Gouda 3-pack,3 x Gouda 28g,3,84,Entry pack,TBD,,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Needs data,Separate Amazon sellable unit / ASIN candidate; no 10-pack in active model
+SnEco,SnEco Cheddar 3-pack,3 x Cheddar 28g,3,84,Entry pack,,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Needs data,Separate Amazon sellable unit / ASIN candidate; no 10-pack in active model
+SnEco,SnEco Gouda 6-pack,6 x Gouda 28g,6,168,Main pack candidate,TBD,,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Needs data,Separate Amazon sellable unit / ASIN candidate; no 10-pack in active model
+SnEco,SnEco Cheddar 6-pack,6 x Cheddar 28g,6,168,Main pack candidate,,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Needs data,Separate Amazon sellable unit / ASIN candidate; no 10-pack in active model
+SnEco,SnEco Mixed 6-pack,3 x Gouda 28g + 3 x Cheddar 28g,6,168,Variety/discovery pack,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Needs data,Separate Amazon sellable unit / ASIN candidate; no 10-pack in active model
+SnEco,SnEco Gouda 15-pack,15 x Gouda 28g,15,420,Bulk/value pack,TBD,,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Needs data,Separate Amazon sellable unit / ASIN candidate; no 10-pack in active model
+SnEco,SnEco Cheddar 15-pack,15 x Cheddar 28g,15,420,Bulk/value pack,,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,TBD,Needs data,Separate Amazon sellable unit / ASIN candidate; no 10-pack in active model

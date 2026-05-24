@@ -12,10 +12,10 @@ SnEco claims work is paused until production price, packaging, and unit economic
 
 Current active TM Barpi claims review applies only to:
 
-- Cheese sticks 20g for dogs
-- Chicken hearts 20g for dogs
-- Zefir 20g for dogs
-- Beze 20g for dogs
+- Cheese Sticks 20g for dogs
+- Chicken Hearts 20g for dogs
+- Zefir / Beef Lung 15g for dogs
+- Beze / Beef Udder 20g for dogs
 - Liver 20g for dogs
 
 Target marketplaces:
@@ -90,6 +90,12 @@ Website claims must not be used automatically in Amazon listings. Claims related
 | Health or medical-style claims | Not approved for listing yet | High | Avoid in title, bullets, A+, and backend content. |
 | Liver nutrient / vitamin / functional benefit wording | Not approved for listing yet | High | Liver products require careful claims review to avoid health, vitamin, functional, or medical-style claims. |
 | Cheese-based pet treat positioning | Not approved for listing yet | Medium | Cheese sticks may require separate compliance attention because they are cheese-based pet treats. |
+| Cheese Sticks nervous system support | Not approved for listing yet | High | Avoid claims about nervous system support unless legally reviewed. |
+| Cheese Sticks reduced fat/salt | Not approved for listing yet | High | Avoid reduced fat/salt claims unless legally reviewed. |
+| Chicken Hearts cardiovascular / heart support | Not approved for listing yet | High | Avoid cardiovascular or heart support claims. |
+| Zefir teeth/gum/digestion | Not approved for listing yet | High | Avoid teeth, gum, and digestion claims. |
+| Beze recovery / skin / coat / satiety | Not approved for listing yet | High | Avoid recovery, skin/coat, and satiety claims. |
+| Liver immunity / eyesight / coat quality / wellbeing | Not approved for listing yet | High | Avoid immunity, eyesight, coat quality, and general health/wellbeing claims. |
 
 ## TM Barpi Preferred Amazon-Safe Language
 
@@ -103,6 +109,16 @@ Website claims must not be used automatically in Amazon listings. Claims related
 | No unnecessary additives | Potentially usable after review | Confirm final formulation and compliant wording. |
 | Vacuum-dried using SNECO technology | Potentially usable after review | Confirm technology evidence and wording. |
 | Lab-tested / quality-controlled | Potentially usable after review | Use only if evidence is available. |
+
+## TM Barpi Active SKU Claim Notes
+
+| SKU | Confirmed content basis | Claim risk note | Amazon listing guidance |
+| --- | --- | --- | --- |
+| TM Barpi Cheese Sticks 20g | Natural cow Suluguni cheese 100%; nutrients listed: calcium, phosphorus, vitamin A, vitamin B12 | Cheese-based dog treat; avoid nervous system support and reduced fat/salt claims unless legally reviewed. | Use simple ingredient/texture/reward language until compliance review. |
+| TM Barpi Chicken Hearts 20g | Chicken hearts 100%; nutrients listed: taurine, coenzyme Q10, iron, zinc, copper, B vitamins | Avoid cardiovascular/heart support claims. | Website also mentions cats, but current Amazon scope is dogs only. |
+| TM Barpi Zefir / Beef Lung 15g | Beef lung 100%; nutrients listed: iron, potassium, phosphorus, B vitamins | Avoid teeth/gum/digestion claims. | Confirm whether Amazon launch pack is 15g or a new 20g pack. |
+| TM Barpi Beze / Beef Udder 20g | Beef udder 100%; nutrients listed: collagen, elastin, calcium, phosphorus, B vitamins | Avoid recovery, skin/coat, and satiety claims. | Use simple crunchy dog treat wording until compliance review. |
+| TM Barpi Liver 20g | Beef liver 100%; nutrients listed: vitamin A, B vitamins, iron, copper, zinc, selenium, choline | Avoid immunity, eyesight, coat quality, and general health/wellbeing claims. | Use simple single-ingredient dog treat wording until compliance review. |
 
 ## TM Barpi Technology And Brand Claims To Verify
 

@@ -6,60 +6,33 @@ This repository is public. Do not include confidential supplier data, proprietar
 
 Use the correct brand spelling: `TM Barpi`.
 
-## Current Active Focus
-
-TM Barpi brand and product intake is active for five approved dog treat 20g SKU.
-
-Exact ingredient wording remains TBD until final packaging/specification is provided.
-
 ## Active Ingredient Intake
 
-| SKU ID | Animal type | Pack size | Ingredient statement | Data status | Notes |
+| SKU ID | Animal type | Pack size | Ingredient statement | Nutrition / nutrient notes | Compliance notes |
 | --- | --- | --- | --- | --- | --- |
-| TM Barpi Cheese sticks 20g | Dogs | 20g | TBD until final packaging/specification is provided | Approved for intake, needs product data | Cheese sticks may require separate compliance attention because they are cheese-based pet treats. |
-| TM Barpi Chicken hearts 20g | Dogs | 20g | TBD until final packaging/specification is provided | Approved for intake, needs product data | Confirm exact final ingredient statement. |
-| TM Barpi Zefir 20g | Dogs | 20g | TBD until final packaging/specification is provided | Approved for intake, needs product data | Confirm exact final ingredient statement. |
-| TM Barpi Beze 20g | Dogs | 20g | TBD until final packaging/specification is provided | Approved for intake, needs product data | Confirm exact final ingredient statement. |
-| TM Barpi Liver 20g | Dogs | 20g | TBD until final packaging/specification is provided | Approved for intake, needs product data | Liver may require careful claims review because liver products can trigger nutrient/health-style claim risks if described too aggressively. |
+| TM Barpi Cheese Sticks 20g | Dogs | 20g | Natural cow Suluguni cheese 100% | 567 kcal / 2354 kJ; fat 44g; saturated fat 31.2g; carbohydrates 1g; protein 49.4g. Nutrients listed: calcium, phosphorus, vitamin A, vitamin B12. | Cheese sticks may require separate compliance attention because they are cheese-based pet treats. Avoid claims about nervous system support, reduced fat/salt unless legally reviewed. |
+| TM Barpi Chicken Hearts 20g | Dogs | 20g | Chicken hearts 100% | 477 kcal / 1996 kJ; fat 30g; saturated fat 9g; carbohydrates 3g; protein 47g. Nutrients listed: taurine, coenzyme Q10, iron, zinc, copper, B vitamins. | Website also mentions cats, but current Amazon scope is dogs only. Avoid cardiovascular/heart support claims. |
+| TM Barpi Zefir / Beef Lung 15g | Dogs | 15g | Beef lung 100% | 375 kcal / 1569 kJ; fat 12g; saturated fat 4.8g; carbohydrates 2g; protein 75g. Nutrients listed: iron, potassium, phosphorus, B vitamins. | Current confirmed data shows 15g, not 20g. Avoid teeth/gum/digestion claims. |
+| TM Barpi Beze / Beef Udder 20g | Dogs | 20g | Beef udder 100% | 500 kcal / 2092 kJ; fat 35g; saturated fat 14g; carbohydrates 3g; protein 45g. Nutrients listed: collagen, elastin, calcium, phosphorus, B vitamins. | Avoid recovery, skin/coat, and satiety claims. |
+| TM Barpi Liver 20g | Dogs | 20g | Beef liver 100% | 400 kcal / 1674 kJ; fat 10g; saturated fat 4g; carbohydrates 5g; protein 65g. Nutrients listed: vitamin A, B vitamins, iron, copper, zinc, selenium, choline. | Avoid immunity, eyesight, coat quality, and general health/wellbeing claims. |
 
-## Ingredient Positioning
+## Common Product Facts
 
-- Natural single-ingredient meat treats for dogs.
-- One ingredient.
-- Nothing unnecessary.
-- Removed water, kept taste.
-- Natural aroma without artificial flavoring.
+- Shelf life: 12 months
+- Storage: up to +30°C / ambient / no refrigeration
+- Country of production: Ukraine
+- Manufacturer: ТОВ “Пет Корп”
+- Website: barpi.com.ua
 
-## Out Of Current Scope
+## Preferred Safe Language
 
-- Cat SKU
-- Appetizers/toppers
-- 100g formats
-
-## Technology And Storage Claims To Verify
-
-| Topic | Intake note | Evidence status | Notes |
-| --- | --- | --- | --- |
-| SNECO vacuum-drying technology | Core technology language | Needs verification | Preferred Amazon-safe wording after evidence review: vacuum-dried using SNECO technology. |
-| Temperature | 34-38°C in Barpi communication | Needs verification | Do not use as a technical claim until support is confirmed. |
-| Moisture removal | Up to 99% moisture removal | Needs verification | Needs evidence and Amazon wording review. |
-| Nutrient preservation | Up to 95% nutrient preservation | Needs verification | Higher claim risk; needs evidence and Amazon wording review. |
-| Storage | 0-30°C, no refrigeration | Needs verification | Supports shelf-stable positioning if documents confirm. |
-| Shelf life | Up to 12 months without added preservatives | Needs verification | Needs SKU-level shelf-life evidence. |
-
-## Claims To Review
-
-- One ingredient
-- No unnecessary additives
-- Lab-tested / quality-controlled, only if evidence is available
-- SNECO vacuum-drying technology
-- Up to 99% moisture removal
-- Up to 95% nutrient preservation
-- Up to 12 months without added preservatives
-- Storage: 0-30°C, no refrigeration
-- Any nutrient, functional, health, vitamin, or medical-style wording for Liver 20g
-- Any dairy or cheese-based pet treat positioning for Cheese sticks 20g
+- Single ingredient
+- Crunchy dog treat
+- Reward / training treat / daily treat
+- Easy to portion
+- Vacuum-dried using SNECO technology, only after evidence review
+- No unnecessary additives, only if final formulation and wording are confirmed
 
 ## Current Status
 
-Needs data. Final ingredient, analytical constituent, feeding guideline, and claim evidence mapping is required before Amazon listing work.
+Confirmed SKU-level ingredient and nutrition data has been recorded. Amazon Europe compliance review is still required before listing use.

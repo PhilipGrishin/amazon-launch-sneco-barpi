@@ -6,7 +6,9 @@ This repository is public. Do not include confidential costs, supplier data, pri
 
 ## Active Scope
 
-Only SnEco Cheddar 28g EN and SnEco Gouda 28g EN are active for the current Amazon Europe claims review.
+TM Barpi brand and product intake is the current active focus.
+
+SnEco claims work is paused until production price, packaging, and unit economics inputs are ready.
 
 Target marketplaces:
 
@@ -15,7 +17,7 @@ Target marketplaces:
 - amazon.fr
 - amazon.de
 
-Do not use Slovak front packaging, Ukrainian packaging, other cheese variants, nut mixes, or TM Barpi in the current active SnEco scope.
+TM Barpi website claims must not be automatically used in Amazon listings.
 
 ## Rule
 
@@ -59,6 +61,50 @@ For distance selling, required food information should be available before purch
 | --- | --- | --- | --- |
 | Contains: Milk | SnEco Cheddar 28g EN; SnEco Gouda 28g EN | Needs Amazon listing review | Milk must be treated as a critical allergen disclosure because EU Regulation 1169/2011 lists milk and products thereof, including lactose, as an allergen category. |
 
+## TM Barpi Amazon Compliance Notes
+
+Do not automatically use website claims in Amazon listing.
+
+## TM Barpi High-Risk Claims Needing Review
+
+| Claim area | Amazon listing use status | Risk | Notes |
+| --- | --- | --- | --- |
+| Dental health / cleans teeth / removes plaque | Not approved for listing yet | High | Health or functional-style claim; requires separate compliance review and evidence. |
+| Immune support | Not approved for listing yet | High | Health or medical-style claim; avoid until reviewed. |
+| Digestion improvement / microbiome normalization | Not approved for listing yet | High | Health or functional-style claim; avoid until reviewed. |
+| Joint support | Not approved for listing yet | High | Health or functional-style claim; avoid until reviewed. |
+| Hypoallergenic / allergy claims | Not approved for listing yet | High | Requires strict evidence and compliance review. |
+| Functional additive / vitamin supplement claims | Not approved for listing yet | High | May change category or compliance route. |
+| Human-grade implication | Not approved for listing yet | High | Avoid unless evidence and compliant wording are confirmed. |
+| Space technology wording | Not approved for listing yet | High | Avoid unless evidence, accuracy, and Amazon wording are reviewed. |
+| Health or medical-style claims | Not approved for listing yet | High | Avoid in title, bullets, A+, and backend content. |
+
+## TM Barpi Preferred Amazon-Safe Language
+
+| Preferred language | Use status | Notes |
+| --- | --- | --- |
+| Single ingredient | Potentially usable after review | Verify exact SKU composition first. |
+| Crunchy meat treat | Potentially usable after review | Verify texture and SKU-specific wording. |
+| For dogs / for cats | Potentially usable after review | Confirm intended animal type by SKU. |
+| Reward / training / daily treat | Potentially usable after review | Avoid health implications. |
+| Easy to portion | Potentially usable after review | Verify format and pack presentation. |
+| No unnecessary additives | Potentially usable after review | Confirm final formulation and compliant wording. |
+| Vacuum-dried using SNECO technology | Potentially usable after review | Confirm technology evidence and wording. |
+| Lab-tested / quality-controlled | Potentially usable after review | Use only if evidence is available. |
+
+## TM Barpi Technology And Brand Claims To Verify
+
+| Claim / topic | Evidence status | Amazon listing use status | Notes |
+| --- | --- | --- | --- |
+| SNECO vacuum drying | Evidence needed | Potentially usable after review | Core technology language. |
+| 34-38°C in Barpi communication | Evidence needed | Not approved for listing yet | Use only after support and wording review. |
+| Up to 99% moisture removal | Evidence needed | Not approved for listing yet | Quantified technical claim; needs support. |
+| Up to 95% nutrient preservation | Evidence needed | Not approved for listing yet | Higher-risk quantified nutrition/technology claim; needs support. |
+| Storage: 0-30°C, no refrigeration | Evidence needed | Potentially usable after review | Supports ambient positioning if documents confirm. |
+| Shelf life: up to 12 months without added preservatives | Evidence needed | Potentially usable after review | Needs SKU-level shelf-life evidence. |
+| Crunchy, light texture | Evidence needed | Potentially usable after review | Verify SKU-specific texture. |
+| Natural aroma without artificial flavoring | Evidence needed | Potentially usable after review | Verify formulation and compliant wording. |
+
 ## Open Questions And Notes
 
 - Do not use old Best Before and Batch Number from sticker samples.
@@ -72,4 +118,4 @@ For distance selling, required food information should be available before purch
 
 ## Current Status
 
-All active SnEco claims are pending EU claim check and Amazon listing review before publication.
+TM Barpi claims intake is active. SnEco claims work is paused until production price, packaging, and unit economics inputs are ready.

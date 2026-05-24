@@ -26,13 +26,15 @@ ChatGPT remains the lead strategic reviewer. Codex maintains files, commits, str
 
 - Brand: SnEco
 - Product type: dried cheese snack
-- Project role: evaluate Amazon launch readiness, category fit, compliance requirements, unit economics, competitor landscape, listing viability, and launch plan.
+- Project status: paused until production price, packaging, and unit economics inputs are ready.
+- Project role: evaluate Amazon launch readiness, category fit, compliance requirements, unit economics, competitor landscape, listing viability, and launch plan once required inputs are available.
 
 ### TM Barpi
 
 - Brand: TM Barpi
 - Product type: pet treats
-- Project role: evaluate Amazon launch readiness, category fit, compliance requirements, unit economics, competitor landscape, listing viability, and launch plan.
+- Project status: current active working focus.
+- Project role: brand, product, audience, compliance, and Amazon Europe intake.
 
 ## Brand Spelling Rule
 
@@ -94,6 +96,10 @@ The project should support clear decisions without exposing confidential busines
 ## Current Stage
 
 Stage 1 — Product Data Intake
+
+Current active focus: TM Barpi brand and product intake.
+
+SnEco status: paused until production price, packaging, and unit economics inputs are ready.
 
 ## Next Required Inputs
 

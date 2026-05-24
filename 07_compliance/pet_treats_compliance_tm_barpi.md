@@ -81,10 +81,10 @@ The shortlist is approved for Amazon intake, not approved for launch yet.
 
 | Marketplace | Domain | Questions to answer | Status | Notes |
 | --- | --- | --- | --- | --- |
-| Spain | amazon.es | Which pet treats category applies? What Spanish label, intended animal type, feeding, analytical, shelf life, and FBA checks are needed? | Needs research | Preliminary only. |
-| Italy | amazon.it | Which pet treats category applies? What Italian label, intended animal type, feeding, analytical, shelf life, and FBA checks are needed? | Needs research | Preliminary only. |
-| France | amazon.fr | Which pet treats category applies? What French label, intended animal type, feeding, analytical, shelf life, and FBA checks are needed? | Needs research | Preliminary only. |
-| Germany | amazon.de | Which pet treats category applies? What German label, intended animal type, feeding, analytical, shelf life, and FBA checks are needed? | Needs research | Preliminary only. |
+| Spain | amazon.es | Which pet treats category applies? What Spanish label, intended animal type, feeding, analytical, shelf life, and FBA checks are needed? | Research deeper | Preliminary only. |
+| Italy | amazon.it | Which pet treats category applies? What Italian label, intended animal type, feeding, analytical, shelf life, and FBA checks are needed? | Research deeper | Preliminary only. |
+| France | amazon.fr | Which pet treats category applies? What French label, intended animal type, feeding, analytical, shelf life, and FBA checks are needed? | Research deeper | Preliminary only. |
+| Germany | amazon.de | Which pet treats category applies? What German label, intended animal type, feeding, analytical, shelf life, and FBA checks are needed? | Research deeper | Preliminary only. |
 
 ## Confirmed SKU Data For Compliance Intake
 
@@ -112,6 +112,29 @@ The shortlist is approved for Amazon intake, not approved for launch yet.
 - Storage: up to +30°C / ambient / no refrigeration
 - Required current Amazon Europe languages: EN, DE, FR, IT, ES
 - Recommended expanded packaging language set: EN, DE, FR, IT, ES, PL
+
+## Europe Dog Treat Compliance Workstream
+
+| Workstream | Preliminary status | Decision impact | Evidence needed | Notes |
+| --- | --- | --- | --- | --- |
+| Pet food/feed classification | Research deeper | Research deeper | Product specification, active SKU ingredients, Ukrainian documents, and Europe pet food/feed guidance. | Confirm whether each active dog treat is classified as pet food, feed material, complementary feed, or another applicable category for Amazon Europe. |
+| Dog treats category path | Research deeper | Research deeper | Current Seller Central category path checks for amazon.es, amazon.it, amazon.fr, and amazon.de. | Category assumption remains Pet Supplies / Dog Treats until verified. |
+| Ukraine to EU import/feed compliance readiness | Research deeper | Research deeper | Import/feed compliance review, EU importer or responsible operator requirements, and document availability. | Ukrainian-origin pet treats may require additional EU import/feed compliance checks. |
+| Packaging language and labeling | Research deeper | Research deeper | Final artwork, label text, languages, text size, and marketplace language requirements. | Recommended packaging languages are EN, DE, FR, IT, ES, PL. |
+| Analytical constituents / guaranteed analysis | Research deeper | Research deeper | Final analytical constituents or guaranteed analysis format for each active SKU. | Needed before packaging/listing readiness can be assessed. |
+| Feeding guidelines | Research deeper | Research deeper | Final dog feeding guidelines for all active SKU. | Chicken Hearts guidance exists but still needs final packaging/spec verification; other active SKU need confirmation. |
+| Claims review | Research deeper | Research deeper | Final packaging claims, website claims, evidence files, and Amazon listing wording review. | Website claims must not be used automatically on Amazon. Health, dental, digestion, immunity, joint, hypoallergenic, vitamin, functional, or medical-style claims are not approved for listing use. |
+| FBA suitability for ambient pet treats | Research deeper | Research deeper | Pack dimensions, gross weight, shelf-life handling, expiration-date process, packaging durability, and FBA policy checks. | Storage is up to +30°C / ambient / no refrigeration, but FBA suitability is not approved yet. |
+| Seller Central document request risk | Research deeper | Research deeper | Current Seller Central requirements and available documents for the five active SKU. | Amazon may request product, feed, lab, conformity, importer, or label documents during listing/category setup. |
+| Marketplace-by-marketplace status | Research deeper | Research deeper | Marketplace-specific checks for amazon.es, amazon.it, amazon.fr, and amazon.de. | Each marketplace remains `Research deeper` until category, attributes, documents, and FBA handling are verified. |
+
+## Risk Notes
+
+- Cheese Sticks may require separate review because it is cheese-based.
+- Liver needs strict claims control because liver content can trigger vitamin/health-style wording.
+- Zefir pack size discrepancy must be resolved before listing setup.
+- Website claims must not be used automatically on Amazon.
+- Health, dental, digestion, immunity, joint, hypoallergenic, vitamin, functional, or medical-style claims are not approved for listing use.
 
 ## Critical Blocker Rules
 

@@ -88,6 +88,56 @@ Needs checks:
 | France | amazon.fr | Research deeper | No reject blocker found yet, but Seller Central category/attribute verification is still required. |
 | Germany | amazon.de | Research deeper | No reject blocker found yet, but Seller Central category/attribute verification is still required. |
 
+## TM Barpi Europe Dog Treat Compliance Workstream
+
+Active TM Barpi SKU:
+
+- TM Barpi Cheese Sticks 20g — dogs
+- TM Barpi Chicken Hearts 20g — dogs
+- TM Barpi Zefir / Beef Lung 15g — dogs, pack size to confirm
+- TM Barpi Beze / Beef Udder 20g — dogs
+- TM Barpi Liver 20g — dogs
+
+Common confirmed facts:
+
+- Manufacturer: ТОВ “Пет Корп”
+- Country of production: Ukraine
+- Shelf life: 12 months
+- Storage: up to +30°C / ambient / no refrigeration
+- Category assumption: Pet Supplies / Dog Treats
+- Fulfillment assumption: FBA candidate, needs suitability and economics check
+- Recommended packaging languages: EN, DE, FR, IT, ES, PL
+
+| Workstream | Preliminary status | Decision impact | Evidence needed | Notes |
+| --- | --- | --- | --- | --- |
+| Pet food/feed classification | Research deeper | Research deeper | Product specification, SKU ingredients, Ukrainian documents, and Europe pet food/feed guidance. | Confirm applicable classification for dog treats before listing setup. |
+| Dog treats category path | Research deeper | Research deeper | Current Seller Central category paths for amazon.es, amazon.it, amazon.fr, and amazon.de. | Category assumption remains Pet Supplies / Dog Treats until verified. |
+| Ukraine to EU import/feed compliance readiness | Research deeper | Research deeper | EU import/feed requirements, importer or responsible operator assumptions, and document availability. | Ukrainian-origin pet treats may require additional EU import/feed compliance checks. |
+| Packaging language and labeling | Research deeper | Research deeper | Final artwork, label copy, languages, text size, and marketplace language requirements. | Recommended packaging languages are EN, DE, FR, IT, ES, PL. |
+| Analytical constituents / guaranteed analysis | Research deeper | Research deeper | Final analytical constituents or guaranteed analysis format for each active SKU. | Needed for compliance and Seller Central data readiness. |
+| Feeding guidelines | Research deeper | Research deeper | Final dog feeding guidelines for all active SKU. | Required before launch-readiness review. |
+| Claims review | Research deeper | Research deeper | Final packaging claims, website claims, evidence files, and Amazon listing wording review. | Website claims must not be used automatically on Amazon. Health, dental, digestion, immunity, joint, hypoallergenic, vitamin, functional, or medical-style claims are not approved for listing use. |
+| FBA suitability for ambient pet treats | Research deeper | Research deeper | Final dimensions, gross weight, shelf-life handling, expiration-date requirements, packaging durability, and FBA policy checks. | Storage is ambient up to +30°C, but FBA suitability is not approved yet. |
+| Seller Central document request risk | Research deeper | Research deeper | Current Seller Central requirements and available product/feed/lab/label/import documents. | Amazon may request documents during category approval, listing setup, or fulfillment review. |
+| Marketplace-by-marketplace status | Research deeper | Research deeper | Marketplace-specific category, attribute, document, and FBA checks. | Each target marketplace remains `Research deeper`. |
+
+## TM Barpi Marketplace Status
+
+| Marketplace | Domain | Preliminary status | Notes |
+| --- | --- | --- | --- |
+| Spain | amazon.es | Research deeper | Verify dog treats category path, required fields, language/label expectations, document risk, and FBA shelf-life handling. |
+| Italy | amazon.it | Research deeper | Verify dog treats category path, required fields, language/label expectations, document risk, and FBA shelf-life handling. |
+| France | amazon.fr | Research deeper | Verify dog treats category path, required fields, language/label expectations, document risk, and FBA shelf-life handling. |
+| Germany | amazon.de | Research deeper | Verify dog treats category path, required fields, language/label expectations, document risk, and FBA shelf-life handling. |
+
+## TM Barpi Risk Notes
+
+- Cheese Sticks may require separate review because it is cheese-based.
+- Liver needs strict claims control because liver content can trigger vitamin/health-style wording.
+- Zefir pack size discrepancy must be resolved before listing setup.
+- Website claims must not be used automatically on Amazon.
+- Health, dental, digestion, immunity, joint, hypoallergenic, vitamin, functional, or medical-style claims are not approved for listing use.
+
 ## Combined Europe Risk Tracker
 
 | Brand | Product type | Marketplace | Domain | Likely Amazon category | Risk area | Potential risk | Risk status | Decision impact | Evidence needed | Owner | Notes |

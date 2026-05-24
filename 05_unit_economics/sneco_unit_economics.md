@@ -31,6 +31,29 @@ Use blanks or `TBD` for unknown cost and pricing fields until approved public-sa
 | SnEco Gouda 15-pack | 15 x Gouda 28g | 15 | 420g | Bulk/value pack | FBA candidate, needs final dimensions, gross weight, expiration-date handling, and prep checks | Yes | Slovakia production/warehouse or prep center | TBD | TBD | Separate sellable unit / ASIN candidate. |
 | SnEco Cheddar 15-pack | 15 x Cheddar 28g | 15 | 420g | Bulk/value pack | FBA candidate, needs final dimensions, gross weight, expiration-date handling, and prep checks | Yes | Slovakia production/warehouse or prep center | TBD | TBD | Separate sellable unit / ASIN candidate. |
 
+## Selected Minimal First FBA Launch Batch
+
+| Selling unit | Launch quantity | Pouches per unit | Gouda pouches required | Cheddar pouches required | Total pouches required | Strategic role | Replenishment logic | Status | Notes |
+| --- | ---: | ---: | ---: | ---: | ---: | --- | --- | --- | --- |
+| SnEco Gouda 3-pack | 40 | 3 | 120 | 0 | 120 | Entry pack | Fast replenishment supports minimal test quantity | Selected | Unit economics still needs COGS, bundle packaging, assembly, FBA fee, VAT, and target price. |
+| SnEco Cheddar 3-pack | 40 | 3 | 0 | 120 | 120 | Entry pack | Fast replenishment supports minimal test quantity | Selected | Unit economics still needs COGS, bundle packaging, assembly, FBA fee, VAT, and target price. |
+| SnEco Gouda 6-pack | 60 | 6 | 360 | 0 | 360 | Main pack candidate | Fast replenishment supports minimal test quantity | Selected | Unit economics still needs COGS, bundle packaging, assembly, FBA fee, VAT, and target price. |
+| SnEco Cheddar 6-pack | 60 | 6 | 0 | 360 | 360 | Main pack candidate | Fast replenishment supports minimal test quantity | Selected | Unit economics still needs COGS, bundle packaging, assembly, FBA fee, VAT, and target price. |
+| SnEco Mixed 6-pack | 80 | 6 | 240 | 240 | 480 | Variety/discovery pack | Fast replenishment supports minimal test quantity | Selected | Unit economics still needs COGS, bundle packaging, assembly, FBA fee, VAT, and target price. |
+| SnEco Gouda 15-pack | 20 | 15 | 300 | 0 | 300 | Bulk/value pack | Fast replenishment supports minimal test quantity | Selected | Unit economics still needs COGS, bundle packaging, assembly, FBA fee, VAT, and target price. |
+| SnEco Cheddar 15-pack | 20 | 15 | 0 | 300 | 300 | Bulk/value pack | Fast replenishment supports minimal test quantity | Selected | Unit economics still needs COGS, bundle packaging, assembly, FBA fee, VAT, and target price. |
+| Total | 320 |  | 1020 | 1020 | 2040 |  | Approximately 5 days from request to Amazon availability, subject to Amazon receiving/check-in | Selected | Total net product weight: 57.12 kg. |
+
+## Launch Batch Assumptions
+
+- First shipment should be planned as one consolidated FBA inbound shipment where possible.
+- Actual Amazon fulfillment center destination will be assigned by Amazon Seller Central.
+- Germany / amazon.de may be used as the first operational anchor if Seller Central and category checks support it.
+- Amazon may split inbound shipment depending on Seller Central workflow.
+- Replenishment lead time assumption: approximately 5 days from request to Amazon availability, subject to Amazon receiving/check-in.
+- Replenishment estimate includes approximately 2-3 days for preparation plus 1-2 days for logistics.
+- Because replenishment is fast, the first batch intentionally avoids overstocking.
+
 ## Required Next Inputs
 
 - COGS per Gouda pouch
@@ -44,3 +67,8 @@ Use blanks or `TBD` for unknown cost and pricing fields until approved public-sa
 - VAT assumption by marketplace
 - Ad cost assumption
 - Final pack dimensions and gross weight
+- Finished unit cost for selected minimal batch
+- Bundle packaging cost for selected minimal batch
+- Assembly cost for selected minimal batch
+- Carton configuration for selected minimal batch
+- FNSKU/barcode labeling cost and process

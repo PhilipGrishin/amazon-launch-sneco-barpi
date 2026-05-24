@@ -117,22 +117,109 @@ The shortlist is approved for Amazon intake, not approved for launch yet.
 
 | Workstream | Preliminary status | Decision impact | Evidence needed | Notes |
 | --- | --- | --- | --- | --- |
-| Pet food/feed classification | Research deeper | Research deeper | Product specification, active SKU ingredients, Ukrainian documents, and Europe pet food/feed guidance. | Confirm whether each active dog treat is classified as pet food, feed material, complementary feed, or another applicable category for Amazon Europe. |
-| Dog treats category path | Research deeper | Research deeper | Current Seller Central category path checks for amazon.es, amazon.it, amazon.fr, and amazon.de. | Category assumption remains Pet Supplies / Dog Treats until verified. |
-| Ukraine to EU import/feed compliance readiness | Research deeper | Research deeper | Import/feed compliance review, EU importer or responsible operator requirements, and document availability. | Ukrainian-origin pet treats may require additional EU import/feed compliance checks. |
+| Pet food/feed classification | Research deeper | Research deeper | Product specification, active SKU ingredients, Ukrainian documents, and Europe pet food/feed guidance. | Evaluate under EU feed / pet food logic. Confirm whether each active dog treat is feed material, complementary feed, or compound feed. Do not classify as complete feed, dietetic feed, functional supplement, veterinary product, or therapeutic product unless separately reviewed and approved. |
+| Dog treats category path | Research deeper | Research deeper | Current Seller Central category path checks for amazon.es, amazon.it, amazon.fr, and amazon.de. | Preliminary Amazon category assumption: Pet Supplies / Dogs / Dog Treats. Category path still needs verification in Seller Central. |
+| Ukraine to EU import/feed compliance readiness | Research deeper | Research deeper | EU import eligibility, EU importer / responsible operator requirements, veterinary/feed documentation, TRACES / CHED applicability, border control process, Ukrainian facility documents, and any additional EU-recognized documents. | High-priority research item because active products are Ukrainian-origin dog treats containing animal-origin ingredients. |
 | Packaging language and labeling | Research deeper | Research deeper | Final artwork, label text, languages, text size, and marketplace language requirements. | Recommended packaging languages are EN, DE, FR, IT, ES, PL. |
-| Analytical constituents / guaranteed analysis | Research deeper | Research deeper | Final analytical constituents or guaranteed analysis format for each active SKU. | Needed before packaging/listing readiness can be assessed. |
+| Analytical constituents / guaranteed analysis | Research deeper | Research deeper | Final pet-food-style analytical constituents or guaranteed analysis for each active SKU. | Current content file contains nutrition-like data; request crude protein, crude fat / crude oils and fats, crude fibre, crude ash, moisture, and any other required declared values if applicable. |
 | Feeding guidelines | Research deeper | Research deeper | Final dog feeding guidelines for all active SKU. | Chicken Hearts guidance exists but still needs final packaging/spec verification; other active SKU need confirmation. |
-| Claims review | Research deeper | Research deeper | Final packaging claims, website claims, evidence files, and Amazon listing wording review. | Website claims must not be used automatically on Amazon. Health, dental, digestion, immunity, joint, hypoallergenic, vitamin, functional, or medical-style claims are not approved for listing use. |
+| Claims review | Research deeper | Research deeper | Final packaging claims, website claims, evidence files, and Amazon listing wording review. | Do not use claims implying particular nutritional purpose, health benefit, medical effect, dental effect, digestive effect, immunity support, joint support, hypoallergenic/allergy benefit, vitamin/functional benefit, recovery, skin/coat, eyesight, or heart/cardiovascular support. |
 | FBA suitability for ambient pet treats | Research deeper | Research deeper | Pack dimensions, gross weight, shelf-life handling, expiration-date process, packaging durability, and FBA policy checks. | Storage is up to +30°C / ambient / no refrigeration, but FBA suitability is not approved yet. |
 | Seller Central document request risk | Research deeper | Research deeper | Current Seller Central requirements and available documents for the five active SKU. | Amazon may request product, feed, lab, conformity, importer, or label documents during listing/category setup. |
 | Marketplace-by-marketplace status | Research deeper | Research deeper | Marketplace-specific checks for amazon.es, amazon.it, amazon.fr, and amazon.de. | Each marketplace remains `Research deeper` until category, attributes, documents, and FBA handling are verified. |
+
+## First Europe Compliance Findings
+
+These findings are preliminary and must be verified against current EU rules, local marketplace expectations, and Amazon Seller Central requirements before listing work.
+
+### Preliminary Amazon Category Assumption
+
+Pet Supplies / Dogs / Dog Treats.
+
+Seller Central category path still needs verification for amazon.es, amazon.it, amazon.fr, and amazon.de.
+
+### EU Regulatory Framing
+
+TM Barpi dog treats should be evaluated under EU feed / pet food logic, not only as general consumer goods.
+
+EU Regulation 767/2009 covers placing on the market and use of feed, including pet food.
+
+### Product Classification To Verify
+
+For each active SKU, confirm whether the correct classification is:
+
+- Feed material
+- Complementary feed
+- Compound feed
+
+Do not classify the active SKU as complete feed, dietetic feed, functional supplement, veterinary product, or therapeutic product unless separately reviewed and approved.
+
+### Labeling Language
+
+Mandatory feed labeling must be in the official language or at least one official language of the Member State or region where the product is placed on the market.
+
+| Marketplace | Domain | Required language for current scope | Preliminary status |
+| --- | --- | --- | --- |
+| Germany | amazon.de | DE | Research deeper |
+| France | amazon.fr | FR | Research deeper |
+| Italy | amazon.it | IT | Research deeper |
+| Spain | amazon.es | ES | Research deeper |
+
+Recommended packaging language set remains EN + DE + FR + IT + ES + PL.
+
+### Mandatory Label And Data Fields To Prepare
+
+- Feed type / classification
+- Feed business operator responsible for labeling
+- Batch / lot reference
+- Net quantity
+- Animal species / category: dogs
+- Instructions for proper use / feeding guidelines
+- Additives list if applicable
+- Moisture content if applicable
+- Analytical constituents / guaranteed analysis
+- Shelf life / best before
+- Storage conditions
+- Country of production / origin
+- Manufacturer / responsible operator
+- Barcode / GTIN
+
+### Analytical Constituents
+
+The current content file contains nutrition-like data, but EU pet treat compliance may require pet-food-style analytical constituents.
+
+Request final analytical constituents / guaranteed analysis for each active SKU:
+
+- Crude protein
+- Crude fat / crude oils and fats
+- Crude fibre
+- Crude ash
+- Moisture
+- Any other required declared values if applicable
+
+### Feeding Guidelines
+
+Chicken Hearts has a found feeding guideline, but final packaging/spec verification is still needed.
+
+Cheese Sticks, Zefir, Beze, and Liver still need confirmed feeding guidelines before listing readiness.
+
+### Preferred Amazon-Safe Language
+
+- Single ingredient
+- Crunchy dog treat
+- Reward / training treat
+- For dogs
+- Easy to portion
+- No unnecessary additives, only after formulation/wording review
+- Vacuum-dried using SNECO technology, only after evidence review
 
 ## Risk Notes
 
 - Cheese Sticks may require separate review because it is cheese-based.
 - Liver needs strict claims control because liver content can trigger vitamin/health-style wording.
 - Zefir pack size discrepancy must be resolved before listing setup.
+- Beze and Zefir animal-origin import/feed compliance must be verified.
+- Chicken Hearts website content also mentions cats, but Amazon intake scope is dogs only.
 - Website claims must not be used automatically on Amazon.
 - Health, dental, digestion, immunity, joint, hypoallergenic, vitamin, functional, or medical-style claims are not approved for listing use.
 

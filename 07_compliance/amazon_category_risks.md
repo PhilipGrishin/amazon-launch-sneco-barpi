@@ -121,6 +121,41 @@ Common confirmed facts:
 | Seller Central document request risk | Research deeper | Research deeper | Current Seller Central requirements and available product/feed/lab/label/import documents. | Amazon may request documents during category approval, listing setup, or fulfillment review. |
 | Marketplace-by-marketplace status | Research deeper | Research deeper | Marketplace-specific category, attribute, document, and FBA checks. | Each target marketplace remains `Research deeper`. |
 
+## TM Barpi First Europe Compliance Findings
+
+These findings are preliminary and must be verified against current EU rules, local marketplace expectations, and Amazon Seller Central requirements before listing work.
+
+Preliminary Amazon category assumption: Pet Supplies / Dogs / Dog Treats.
+
+Seller Central category path still needs verification for amazon.es, amazon.it, amazon.fr, and amazon.de.
+
+EU regulatory framing: TM Barpi dog treats should be evaluated under EU feed / pet food logic, not only as general consumer goods. EU Regulation 767/2009 covers placing on the market and use of feed, including pet food.
+
+Product classification to verify for each active SKU:
+
+- Feed material
+- Complementary feed
+- Compound feed
+
+Do not classify the active SKU as complete feed, dietetic feed, functional supplement, veterinary product, or therapeutic product unless separately reviewed and approved.
+
+Mandatory feed labeling must be in the official language or at least one official language of the Member State or region where the product is placed on the market.
+
+| Marketplace | Domain | Required language for current scope | Preliminary status |
+| --- | --- | --- | --- |
+| Germany | amazon.de | DE | Research deeper |
+| France | amazon.fr | FR | Research deeper |
+| Italy | amazon.it | IT | Research deeper |
+| Spain | amazon.es | ES | Research deeper |
+
+Recommended packaging language set remains EN + DE + FR + IT + ES + PL.
+
+Mandatory label/data fields to prepare: feed type / classification; feed business operator responsible for labeling; batch / lot reference; net quantity; animal species / category: dogs; instructions for proper use / feeding guidelines; additives list if applicable; moisture content if applicable; analytical constituents / guaranteed analysis; shelf life / best before; storage conditions; country of production / origin; manufacturer / responsible operator; barcode / GTIN.
+
+Current content file contains nutrition-like data, but EU pet treat compliance may require pet-food-style analytical constituents. Request final analytical constituents / guaranteed analysis for each active SKU: crude protein, crude fat / crude oils and fats, crude fibre, crude ash, moisture, and any other required declared values if applicable.
+
+Ukraine to EU import/feed compliance is a high-priority research item. Because the active products are Ukrainian-origin dog treats containing animal-origin ingredients, verify EU import eligibility, EU importer / responsible operator requirements, veterinary / feed documentation, TRACES / CHED applicability, border control process, whether Ukrainian facility documents are sufficient, and whether additional EU-recognized documents are needed.
+
 ## TM Barpi Marketplace Status
 
 | Marketplace | Domain | Preliminary status | Notes |
@@ -135,6 +170,8 @@ Common confirmed facts:
 - Cheese Sticks may require separate review because it is cheese-based.
 - Liver needs strict claims control because liver content can trigger vitamin/health-style wording.
 - Zefir pack size discrepancy must be resolved before listing setup.
+- Beze and Zefir animal-origin import/feed compliance must be verified.
+- Chicken Hearts website content also mentions cats, but Amazon intake scope is dogs only.
 - Website claims must not be used automatically on Amazon.
 - Health, dental, digestion, immunity, joint, hypoallergenic, vitamin, functional, or medical-style claims are not approved for listing use.
 

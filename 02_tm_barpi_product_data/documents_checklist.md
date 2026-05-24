@@ -39,15 +39,22 @@ No cat SKU, no appetizers/toppers, and no 100g formats are active in the current
 | --- | --- | --- | --- | --- |
 | Product specification | Confirms product identity, format, animal type, and key attributes. | Critical | Needs verification | Required for each active SKU. |
 | Full ingredients list | Supports category, label, animal feed, and claims review. | Critical | Available outside repo | Ingredient data recorded from confirmed content file and website. Final packaging/specification still needs verification. |
-| Analytical constituents / guaranteed analysis if applicable | Supports pet food or pet treat label and category review. | High | Needs verification | Confirm EU-required format. |
+| Feed type / classification confirmation | Confirms whether each SKU should be treated as feed material, complementary feed, or compound feed. | Critical | Needs verification | Do not classify as complete feed, dietetic feed, functional supplement, veterinary product, or therapeutic product unless separately reviewed and approved. |
+| Feed business operator responsible for labeling | Supports EU feed label and responsible-operator review. | Critical | Needs verification | Confirm whether an EU importer / responsible operator is needed for Amazon Europe. |
+| Analytical constituents / guaranteed analysis | Supports pet food or pet treat label and category review. | Critical | Needs verification | Request crude protein, crude fat / crude oils and fats, crude fibre, crude ash, moisture, and any other required declared values if applicable. |
 | Intended animal type | Confirms dog-only positioning. | Critical | Available outside repo | Current active scope is dogs only. |
 | Feeding guidelines | Supports safe use and label review. | High | Needs verification | Chicken Hearts guideline found; Cheese Sticks, Zefir, Beze, and Liver still need confirmation. |
 | Shelf life / best before evidence | Supports FBA suitability and storage review. | High | Available outside repo | Shelf life: 12 months; verify packaging/spec source. |
 | Storage conditions | Confirms storage and fulfillment constraints. | High | Available outside repo | Up to +30°C / ambient / no refrigeration. |
 | Label artwork | Supports marketplace, language, and claims review. | High | Needs verification | Confirm final packaging languages and claims. |
+| Batch / lot reference approach | Supports traceability and label review. | High | Needs verification | Required label/data field to prepare. |
 | Packaging dimensions and weights | Supports FBA, logistics, and unit economics assumptions. | High | Needs verification | Needed for each 20g / 15g pack. |
 | Barcode for each SKU | Supports Amazon setup and item identification. | High | Available outside repo | Recorded in SKU data. |
 | Pet food / feed compliance document if applicable | Supports dog treat category and regulatory review. | Critical | Needs verification | Cheese Sticks may require separate compliance attention because they are cheese-based pet treats. |
+| EU import eligibility / feed import review | Supports Ukraine to EU import/feed readiness. | Critical | Needs verification | High-priority research item because active SKU are Ukrainian-origin dog treats containing animal-origin ingredients. |
+| EU importer / responsible operator documentation | Supports EU marketplace and Seller Central readiness. | Critical | Needs verification | Confirm whether Ukrainian documents are sufficient or whether EU-recognized documentation is needed. |
+| Veterinary / feed documentation | Supports animal-origin product import/feed review. | Critical | Needs verification | Confirm applicable documents before launch-readiness decision. |
+| TRACES / CHED applicability check | Supports border control and import workflow planning. | Critical | Needs verification | Verify applicability for Ukrainian-origin animal-based dog treats. |
 | Lab tests | Supports quality, safety, and "lab-tested" wording if used. | High | Available outside repo | Expert conclusion recorded; verify Amazon suitability. |
 | Certificate of conformity | Supports compliance and Seller Central requests if available. | High | Needs verification | Confirm current validity before Amazon use. |
 | Technical conditions | Supports manufacturing and product specification review. | Medium | Available outside repo | ТУ У 10.9-45519838-001:2024. |
@@ -61,6 +68,25 @@ No cat SKU, no appetizers/toppers, and no 100g formats are active in the current
 - Required current Amazon Europe languages: EN, DE, FR, IT, ES.
 - Recommended expanded packaging language set: EN, DE, FR, IT, ES, PL.
 - Optional future languages if space allows: NL, PT.
+
+## Europe Label Field Checklist
+
+Prepare public-safe confirmation for:
+
+- Feed type / classification
+- Feed business operator responsible for labeling
+- Batch / lot reference
+- Net quantity
+- Animal species / category: dogs
+- Instructions for proper use / feeding guidelines
+- Additives list if applicable
+- Moisture content if applicable
+- Analytical constituents / guaranteed analysis
+- Shelf life / best before
+- Storage conditions
+- Country of production / origin
+- Manufacturer / responsible operator
+- Barcode / GTIN
 
 ## Current Status
 

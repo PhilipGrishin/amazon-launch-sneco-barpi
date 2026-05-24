@@ -21,7 +21,7 @@ Actual requirements depend on Amazon marketplace, category, local regulation, fu
 
 ## Preliminary Required / Useful Documents
 
-| Document | Purpose | Likely relevance | Status | Notes |
+| Document | Purpose | Priority | Status | Notes |
 | --- | --- | --- | --- | --- |
 | Product specification | Confirms product identity, format, ingredients, shelf life, and key attributes. | High | Available outside repo | Needed for both SnEco Cheddar 28g EN and SnEco Gouda 28g EN. |
 | Full ingredients list | Supports category, label, allergen, and claims review. | Critical | Available outside repo | Public-safe summary recorded in `ingredients.md`. |
@@ -31,6 +31,7 @@ Actual requirements depend on Amazon marketplace, category, local regulation, fu
 | Storage conditions | Confirms storage and fulfillment constraints. | High | Needs verification | Needs final review for Amazon Europe and FBA. |
 | Label artwork | Supports marketplace, language, and claims review. | High | Available outside repo | Use active English packaging and new rear sticker data only. |
 | Packaging dimensions and weights | Supports FBA, logistics, and unit economics assumptions. | High | Needs verification | Net weight is 1 oz. / 28 g; final dimensions and packed weights still need confirmation. |
+| Technical manufacturing specification / storage condition confirmation | Supports ambient storage, FBA suitability, and non-refrigerated category positioning. | Critical | Available outside repo | Confirms storage temperature 0-30°C for active SnEco SKU. |
 | Country of origin statement | Supports import, label, and listing requirements. | High | Available outside repo | Production country: Slovakia. |
 | Manufacturer and contact data | Supports legal manufacturer and label review. | High | Available outside repo | Sneco SK, s.r.o.; Karpatska 1328/3, 040 01 Kosice, Slovakia; sales@sneco.eu; sneco.eu. |
 | Approval mark | Supports dairy/food compliance review. | High | Available outside repo | SK 4-7-198 ES. |

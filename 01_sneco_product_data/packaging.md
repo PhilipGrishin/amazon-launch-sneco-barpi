@@ -43,6 +43,16 @@ Do not use old Best Before and Batch Number data from rear sticker samples. They
 | Best before / batch data | Needs future production confirmation | Old sticker sample data must not be used for new production. |
 | Claims on packaging | Needs compliance review | Award, renewable energy, 100% cheese, high protein, keto, healthy snack, and shelf-life wording require review before Amazon listing use. |
 
+## Storage And Fulfillment Positioning
+
+| Field | Value |
+| --- | --- |
+| Storage temperature | 0-30°C |
+| Evidence source | Technical manufacturing documentation / supporting documents |
+| Retail pouch note | Retail pouch may not show the full storage range, but supporting documents confirm it. |
+| Amazon category and fulfillment positioning | Amazon category and fulfillment should treat the product as ambient snack. |
+| Category routing guardrail | Do not route the product into refrigerated, fresh cheese, fresh dairy, chilled dairy, or cold-chain categories. |
+
 ## Current Status
 
 Packaging data is ready for category check, pending final production batch/best-before confirmation and Amazon Europe compliance review.
